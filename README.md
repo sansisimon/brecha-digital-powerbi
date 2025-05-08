@@ -14,27 +14,20 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 ---
 ## 📂 Estructura del Proyecto
 
-### 📂 documentacion: proyecto-guia
-
-  - Resumen_ejecutivo del estudio y objetivos principales.
-  - Marco_teorico que fundamenta el estudio.
-  - Metodologia empleada para el análisis de la brecha digital.
-  - Conclusiones finales.
-
 ### 📂 datos
 
-- **csv**: Contiene los archivos CSV con los datos extraídos para este estudio.
+- **csv**: Contiene los archivos CSV en crudo con los datos extraídos para este estudio.
 
 
 ### 📂 transformaciones
 
-  - `dataset_ue.ipynb`: Jupyter_notebook encargado de la limpieza de los datos extraídos referentes a la UE.
+  - `dataset_ue.ipynb`: Jupyter_notebook donde se realiza la limpieza de los datos extraídos referentes a la UE.
 
-  - `dataset_global.ipynb`: Jupyter_notebook que realiza el estudio y limpieza de varios de los csv estraídos del INE (Instituto Nacional de Estadística) como valor central de la situación en España .
+  - `dataset_global.ipynb`: Jupyter_notebook donde se realiza el estudio y limpieza de varios de los csv estraídos del INE (Instituto Nacional de Estadística) como valor central de la situación en España .
 
 ### 📂 visualizaciones
 
-  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados.
+  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados. **Este arcivo es demasiado pesado para almacenarlo en github, estaré encantada de compartirlo con quien desee consultarlo**
 
 ---
 
@@ -44,11 +37,11 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 ### 🧭  1. Nuevo Enfoque
 
 **Antes: ¿Tienes acceso a Internet?**
-
 **Ahora: ¿Usas la tecnología de forma efectiva y productiva?**
+![alt text](<visualizaciones/1-brecha territorial 3.png>)
+
 
 **La brecha digital ya no se mide solo por conexión, sino por el uso significativo de la tecnología.**
-
 
 ### 📉 2. Desigualdades en Competencias
 
@@ -59,6 +52,8 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 - 🌄 Habitantes de zonas rurales
 
 **La mayoría tiene acceso, pero no todos saben aprovecharlo.**
+![alt text](<visualizaciones/4-sociodemograficos 2.png>)
+
 
 ### 🚀 3. Productividad Digital: ¿El uso digital mejora tu vida?
 
@@ -66,8 +61,9 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 - Educación
 - Salud
 - Participación ciudadana
-
 **Se necesita medir si el uso tecnológico genera beneficios reales.**
+![alt text](<visualizaciones/5-uso UE España 1.png>)
+
 
 ### 💡 4. Impacto en la Calidad de Vida: Más que conectarse, se trata de:
 
@@ -80,15 +76,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 **Más que conexión: formación digital adaptada**
 
-Enfoque en:
-
-**✅ Habilidades para el trabajo**
-
-**✅ Seguridad digital**
-
-**✅ Pensamiento crítico**
-
-**✅ Resolución de problemas**
+![alt text](visualizaciones/6-conclusiones.png)
 
 ---
 
