@@ -27,7 +27,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ### 📂 visualizaciones
 
-  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados. **Este arcivo es demasiado pesado para almacenarlo en github, estaré encantada de compartirlo con quien desee consultarlo**
+  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados. 
 
 ---
 
