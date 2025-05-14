@@ -64,9 +64,12 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 **Se necesita medir si el uso tecnológico genera beneficios reales.**
 
+España:
+
 ![alt text](<visualizaciones/5-uso UE España 1.png>)
 
 
+Unión Europea:
 ![alt text](<visualizaciones/5-uso UE Union Europea 1.png>)
 
 
