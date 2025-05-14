@@ -61,16 +61,21 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 - Educación
 - Salud
 - Participación ciudadana
+
 **Se necesita medir si el uso tecnológico genera beneficios reales.**
+
 ![alt text](<visualizaciones/5-uso UE España 1.png>)
+
+![alt text](<visualizaciones/5-uso UE Union Europea 1.png>)
 
 
 ### 💡 4. Impacto en la Calidad de Vida: Más que conectarse, se trata de:
 
-- **Acceder a servicios útiles**
-- **Encontrar oportunidades**
-- **Construir redes de apoyo**
-- **El verdadero valor está en cómo la tecnología transforma vidas.**
+- Acceder a servicios útiles
+- Encontrar oportunidades
+- Construir redes de apoyo
+- El verdadero valor está en cómo la tecnología transforma vidas.
+
 
 ### 🏛️ 5. Políticas Públicas Inteligentes
 
@@ -94,17 +99,7 @@ Es fundamental **comprender mejor cómo el nivel de uso digital incide en la emp
 - Identificar si existen **barreras específicas que impiden a personas desempleadas aprovechar las herramientas digitales** para la búsqueda de empleo o el autoempleo.
 
 ---
-
-## 2. Análisis sociodemográfico detallado por Comunidades Autónomas
-
-Para adaptar políticas públicas eficaces, es necesario un conocimiento profundo de las realidades sociales en cada territorio. Se propone:
-
-- **Segmentar los datos por CCAA**, analizando variables como edad, nivel educativo, entorno urbano/rural, renta media y situación laboral.
-- Estudiar las **necesidades digitales específicas** de cada grupo sociodemográfico y su potencial impacto en la calidad de vida.
-- Diseñar estrategias de intervención **territorializadas y basadas en evidencia**.
-
----
-## 3. Estudio específico de Ceuta y Melilla
+## 2. Estudio específico de Ceuta y Melilla
 
 Ceuta y Melilla presentan **características estructurales particulares**, tanto por su evolución histórica como por sus **elevadas tasas de desempleo**, que justifican una investigación diferenciada. Se propone:
 
@@ -114,59 +109,25 @@ Ceuta y Melilla presentan **características estructurales particulares**, tanto
 
 ---
 
-### **Objetivo final:**  
-Desarrollar un modelo de análisis territorial y sociodemográfico que permita identificar con mayor precisión las **brechas de uso y productividad digital** en función de contextos sociales, económicos y geográficos, contribuyendo a una **inclusión digital equitativa y efectiva** en todas las regiones de España.
-
----
-
 ## 📚 Fuetes Principales
 
 - **INE (Instituto Nacional de Estadística): https://www.ine.es**:
   
-  Evolución de datos de Viviendas (2006-2024) por Comunidades y Ciudades Autónomas, tipo de equipamiento y periodo: 
+  Evolución de datos de Viviendas (2006-2024) por Comunidades y Ciudades Autónomas, tipo de equipamiento y periodo  [Fuente](https://www.ine.es/jaxi/Tabla.htm?tpx=70470&L=0)
 
-  [Fuente](https://www.ine.es/jaxi/Tabla.htm?tpx=70470&L=0)
+  Nivel y condiciones de vida: [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70388#_tabs-grafico)
 
-  Nivel y condiciones de vida: 
+  Datos de Viviendas por Comunidades y Ciudades Autónomas, tamaño del hogar, tipo de hogar, hábitat, ingresos mensuales netos del hogar y tipo de equipamiento: [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70466)
 
-  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70388#_tabs-grafico)
+- **UNESCO (2021)** : Reimagining our futures together: A new social contract for education. [Fuente](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa)
 
-  Datos de Viviendas por Comunidades y Ciudades Autónomas, tamaño del hogar, tipo de hogar, hábitat, ingresos mensuales netos del hogar y tipo de equipamiento.:
-
-  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70466)
-
-- **UNESCO (2021): Reimagining our futures together: A new social contract for education.**
-
-    [Fuente](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa)
-
-- **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
-
-    [Fuente](https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners)
+- **OCDE (2020)**: The Digital Transformation of Education: Connecting Schools and Communities. [Fuente](https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners)
 
 - **Digital economy and society statistics - households and individuals**
+  - [Fuente](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals)
 
-  [Fuente](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals)
+  - [Fuente](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_16380599/default/table?lang=en)
 
-  [Fuente](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_16380599/default/table?lang=en)
-
-- **Otras fuentes:**
-
-  Obtención del mapa de formas de España: [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
+- **Otras fuentes:** Obtención del mapa de formas de España. [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
 
 ---
-## 💡 Contribuciones
-
-Si deseas contribuir al proyecto, sigue estos pasos:
-
-- **Haz un fork del [repositorio](https://github.com/sansisimon/brecha-digital-powerbi.git).**  
-   Esto creará una copia del repositorio en tu cuenta para que puedas trabajar en él libremente.
-
-
-- **Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).**
-
-- **Realiza tus cambios y haz un commit.**
-
-- **Envía un pull request con tus cambios.**
-
-
-### **¡Gracias por tu interés en este estudio sobre la brecha digital en España!**
